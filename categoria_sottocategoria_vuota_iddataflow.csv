@@ -1,0 +1,59 @@
+﻿iddataflow,Categoria,Sotto categoria,descrizione,iddatastructure
+101_1030,Agricoltura,Prodotti di qualità e agriturismo,Prodotti agroalimentari di qualità DOP/IGP e STG,DCSP_DOPIGP
+101_1077,Agricoltura,Prodotti di qualità e agriturismo,Prodotti di qualità DOP/IGP e STG: operatori - dati comunali,DCSP_DOPIGP_COM
+104_466,Agricoltura,Mezzi di produzione,Fertilizzanti,DCSP_FERTILIZZANTI
+117_1035,Servizi,Servizi ,Servizi bancari - dati comunali,DCAT_SERVBANC_COM
+117_1057,Servizi,Servizi ,Trasporto ferroviario,DCSC_TRAFERR
+143_1043,Prezzi,Prezzi,Indici dei prezzi alla produzione delle costruzioni,DCSC_INDPREPROCOSTR
+162_1058,Conti nazionali,Conti non finanziari trimestrali per settore istituzionale,Sequenza dei conti trimestrali per settore istituzionale - Conti versione 2014,DCCN_ISTITUZ_QNA_B14
+162_1064,Conti nazionali,Conti non finanziari trimestrali per settore istituzionale,Sequenza  dei conti trimestrali per settore istituzionale,DCCN_ISTITUZ_QNA1
+30_1008,Condizioni economiche delle famiglie e disuguaglianze,Reddito delle persone fisiche (Irpef)  - comuni,Reddito delle persone fisiche (Irpef)  - comuni,MEF_REDDITIIRPEF_COM
+42_1108,Salute e sanità,Salute riproduttiva della donna,Interruzioni volontarie della gravidanza  caratteristiche dell'evento,DCIS_IVG_CARATTEV1
+498_1104,Condizioni economiche delle famiglie e disuguaglianze,Disagio economico,Persone a rischio povertà o esclusione sociale,DCCV_RISKPOV
+52_1044,Istruzione e formazione,Istruzione e formazione,Scuole,DCIS_SCUOLE
+534_1037,Lavoro e retribuzioni,Occupazione dipendente e retribuzioni - Posizioni lavorative e ore lavorate nelle imprese,Ore lavorate - Imprese con dipendenti,DCSC_ORE10_2
+534_1038,Lavoro e retribuzioni,Occupazione dipendente e retribuzioni - Posizioni lavorative e ore lavorate nelle imprese,Posti vacanti - Imprese con dipendenti,DCSC_POSTIVAC_2
+56_1045,Istruzione e formazione,Università,Iscritti all'università - comune dell'ateneo,DCIS_ISCRITTI_COM_A
+56_1046,Istruzione e formazione,Università,Iscritti all'università - comune di residenza,DCIS_ISCRITTI_COM_R
+669_1073,Conti nazionali,Conti ambientali - Conti ambientali versioni 2014 e 2011,Gettito delle imposte ambientali versione 2014,DCCN_IMPAMB1_B14
+669_1081,Conti nazionali,Conti ambientali - Conti ambientali versioni 2014 e 2011,Conti dei flussi fisici di energia (PEFA) versione 2014,DCCN_PEFA_B14
+669_1113,Conti nazionali,Conti ambientali,Spese per la protezione dell'ambiente versione 2014,DCCN_SPESAPROTAMB_B14
+669_1116,Conti nazionali,Conti ambientali - Conti ambientali versioni 2014 e 2011,Conti dei flussi di materia versione 2014,DCCN_FLUMAT_B14
+669_1119,Conti nazionali,Conti ambientali - Conti ambientali versioni 2014 e 2011,Conti dei beni e servizi ambientali versione 2014,DCCN_EGSS_B14
+723_1036,Lavoro e retribuzioni,Offeta di lavoro - Famiglie e mercato del lavoro,Famiglie - condizione occupazionale,DCCV_FAMCOND1
+723_1040,Lavoro e retribuzioni,Offeta di lavoro - Famiglie e mercato del lavoro,Individui per ruolo in famiglia - condizione occupazionale,DCCV_RUOLOFAMCOND
+723_1041,Lavoro e retribuzioni,Offeta di lavoro - Famiglie e mercato del lavoro,Coppie - condizione occupazionale,DCCV_COPPIECOND
+729_1050,Caratteristiche del territorio,Caratteristiche del territorio,Superfici territoriali,DCCV_CARGEOMOR_ST_COM
+729_995,Caratteristiche del territorio,Caratteristiche del territorio,Superfici esposte a rischio idrogeologico,DCCV_CARGEOMOR_COM
+73_1071,Giustizia e sicurezza,Giustizia penale,Persone indagate presso le procure - adulti,DCCV_IMPUTATI_A
+73_1072,Giustizia e sicurezza,Giustizia penale,Persone indagate presso le procure - minori,DCCV_IMPUTATI_M
+730_1006,Conti nazionali,Conti e aggregati economici nazionali annuali - Conti annuali versione 2014,Sequenza dei conti - edizioni ottobre 2014 - aprile 2019,DCCN_SQCN_B14
+730_1047,Conti nazionali,Conti e aggregati economici nazionali annuali - Conti annuali versione 2014,Prodotto interno lordo e principali componenti - edizioni ottobre 2014 - aprile 2019,DCCN_PILN_B14
+730_1048,Conti nazionali,Conti e aggregati economici nazionali annuali - Conti annuali versione 2014,Principali aggregati annnuali di contabilità nazionale - edizioni ottobre 2014 - aprile 2019,DCCN_ANA_B14
+730_1049,Conti nazionali,Conti e aggregati economici nazionali annuali - Conti annuali versione 2014,Occupazione regolare, irregolare e popolazione - edizioni ottobre 2014 - aprile 2019,DCCN_OCCNSEC2010_B14
+732_1051,Conti nazionali,Conti e aggregati economici nazionali trimestrali - Conti trimestrali versione 2014,Conto economico delle risorse e degli impieghi  e contributi alla crescita del Pil - edizioni ottobre 2014 - agosto 2019,DCCN_SQCQ_B14
+732_1052,Conti nazionali,Conti e aggregati economici nazionali trimestrali - Conti trimestrali versione 2014,Prodotto interno lordo e principali componenti - edizioni ottobre 2014 - agosto 2019,DCCN_PILQ_B14
+732_1053,Conti nazionali,Conti e aggregati economici nazionali trimestrali - Conti trimestrali versione 2014,Principali aggregati trimestrali di Contabilità Nazionale - edizioni ottobre 2014 - agosto 2019,DCCN_QNA_B14
+732_1054,Conti nazionali,Conti e aggregati economici nazionali trimestrali - Conti trimestrali versione 2014,Occupazione per branca di attività - edizioni ottobre 2014 - agosto 2019,DCCN_OCCQSEC2010_B14
+733_1055,Conti nazionali,Conti non finanziari annuali per settore istituzionale - Conti istituzionali annuali versione 2014,Sequenza dei conti e stock di attività non finanziarie, per settore istituzionale - edizioni ottobre 2015 - aprile 2019,DCCN_ISTITUZ_ANA_B14
+733_1056,Conti nazionali,Conti non finanziari annuali per settore istituzionale - Conti istituzionali annuali versione 2014,Occupazione per branca di attività - edizioni ottobre 2014 - aprile 2019,DCCN_OCCSISEC2010_B14
+734_1060,Conti nazionali,Conti e aggregati economici delle Pubblice Amministrazioni - Conti delle Pubbliche Amministrazioni versione 2014,Conto annuale - edizioni fino ad aprile 2019,DCCN_FPA_B14
+734_1061,Conti nazionali,Conti e aggregati economici delle Pubblice Amministrazioni - Conti delle Pubbliche Amministrazioni versione 2014,Uscite annuali per sottosettore - edizioni fino ad aprile 2019,DCCN_OTEPPA_B14
+737_1082,Conti nazionali,Conti e aggregati economici territoriali - Conti territoriali versione 2014,Sequenza dei conti - edizioni ottobre 2014 - dicembre 2018,DCCN_SQCT_B14
+737_1083,Conti nazionali,Conti e aggregati economici territoriali - Conti territoriali versione 2014,Prodotto interno lordo lato produzione - edizioni ottobre 2014 - dicembre 2018,DCCN_PILT_B14
+737_1084,Conti nazionali,Conti e aggregati economici territoriali - Conti territoriali versione 2014,Principali aggregati territoriali di Contabilità nazionale - edizioni ottobre 2014 - dicembre 2018,DCCN_TNA_B14
+737_1087,Conti nazionali,Conti e aggregati economici territoriali - Conti territoriali versione 2014,Occupazione regolare, irregolare e popolazione - edizioni ottobre 2014 - dicembre 2018,DCCN_OCCTSEC2010_B14
+737_1093,Conti nazionali,Conti e aggregati economici territoriali - Conti territoriali versione 2014,Reddito disponibile delle famiglie nelle regioni italiane - edizioni novembre 2015 - dicembre 2018,DCCN_ISTITUZ_TNA_B14
+750_1117,Conti nazionali,Conti della branca agricoltura, silvicoltura e pesca,Conti della branca agricoltura, silvicoltura e pesca - versione 2014,DCCN_VAAGSIPET_B14
+750_1118,Conti nazionali,Conti della branca agricoltura, silvicoltura e pesca,Conti della branca agricoltura, silvicoltura e pesca - versione 2011,DCCN_VAAGSIPET_B11
+760_1140,Conti nazionali,Sistema dei conti della sanità,Sistema dei conti della sanità - versione 2014,DCCN_SHA_B14
+78_1112,Giustizia e sicurezza,Violenza contro le donne,Donne che hanno subito violenza - caratteristiche demografiche e abitudini,DCCV_VIOL_CARAT
+78_1114,Giustizia e sicurezza,Violenza contro le donne,Utenti che si rivolgono al 1522 (numero antiviolenza e stalking),DCCV_1522_UTENTI
+78_1121,Giustizia e sicurezza,Violenza contro le donne,Vittime che si rivolgono al 1522 (numero antiviolenza e stalking),DCCV_1522_VITTIME
+91_963,Conti nazionali,Sistema dei conti della sanità,Sistema dei conti della sanità,DCCN_SHA
+93_1095,Conti nazionali,Conti e aggregati economici territoriali,Reddito disponibile delle famiglie  nelle regioni italiane,DCCN_ISTITUZ_TNA1
+94_1063,Conti nazionali,Conti non finanziari annuali per settore istituzionale - Conti istituzionali annuali versione 2014,Stock  di attività non finanziarie  e sequenza dei conti per settore istituzionale,DCCN_ISTITUZ_ANA1
+96_1068,Conti nazionali,Conti della Protezione sociale,Conti della Protezione sociale versione 2014,DCCN_PROTSOC_B14
+96_1069,Conti nazionali,Conti della Protezione sociale,Conti della Protezione sociale versione 2011,DCCN_PROTSOC_B11
+98_1066,Conti nazionali,Misure di produttività ,Misure di produttività - Conti versione 2014,DCCN_PRODUTTIVITA_B14
+98_1067,Conti nazionali,Misure di produttività ,Misure di produttività - Conti versione 2011,DCCN_PRODUTTIVITA_B11
